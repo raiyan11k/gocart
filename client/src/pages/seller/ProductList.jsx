@@ -101,6 +101,7 @@ const ProductList = () => {
                                 <th className="px-4 py-3 font-semibold truncate hidden md:block">Selling Price</th>
                                 <th className="px-4 py-3 font-semibold truncate">In Stock</th>
                                 <th className="px-4 py-3 font-semibold truncate">Action</th>
+                                <th className="px-4 py-3 font-semibold truncate">Quantity</th>
                             </tr>
                         </thead>
                         <tbody className="text-sm text-gray-500">
